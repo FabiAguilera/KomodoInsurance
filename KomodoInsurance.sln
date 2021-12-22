@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoInsuranceTeamTracker.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoInsurance01_Repository", "KomodoInsurance01_Repository\KomodoInsurance01_Repository.csproj", "{B5A4E432-B0EF-4D42-A4A5-8373467576B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoTest1", "KomodoTest1\KomodoTest1.csproj", "{F7E43B7B-0EAA-451F-BF4A-A24734693210}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B5A4E432-B0EF-4D42-A4A5-8373467576B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A4E432-B0EF-4D42-A4A5-8373467576B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A4E432-B0EF-4D42-A4A5-8373467576B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E43B7B-0EAA-451F-BF4A-A24734693210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E43B7B-0EAA-451F-BF4A-A24734693210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E43B7B-0EAA-451F-BF4A-A24734693210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E43B7B-0EAA-451F-BF4A-A24734693210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
